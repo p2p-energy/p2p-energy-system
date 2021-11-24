@@ -21,6 +21,10 @@ h6 {
     font-family: -apple-system-headline, 'Helvetica Neue', Helvetica, sans-serif;
 }
 
+a:focus{
+    outline: none;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
